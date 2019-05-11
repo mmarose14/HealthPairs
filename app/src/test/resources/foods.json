@@ -1,0 +1,23 @@
+[{
+	"description": "A study in the Journal of Nutrition determined that the anti­oxidant ellagic acid (found in raspberries, pomegranates, walnuts, and cranberries) enhanced the ability of quercetin (an antioxidant found in apples, grapes, onions, and buckwheat) to kill off cancerous cells.",
+	"foodOne": {
+		"image": "",
+		"name": "Apple"
+	},
+	"foodTwo": {
+		"image": "",
+		"name": "Raspberries"
+	},
+	"source": "http:www.rd.com"
+}, {
+	"description": "According to a separate Purdue University report, adding a splash of citrus juice from a lemon, lime, or grapefruit to green tea reduces the breakdown of its catechins in our digestive system, making them even more readily absorbed by the body.",
+	"foodOne": {
+		"image": "",
+		"name": "Green Tea"
+	},
+	"foodTwo": {
+		"image": "",
+		"name": "Lemon"
+	},
+	"source": "http:www.rd.com"
+}]

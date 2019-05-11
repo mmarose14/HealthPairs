@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="@dimen/default_margin"
+    tools:context="com.healthpairs.pairs.PairsActivity">
+
+    <ImageView
+        android:src="@mipmap/ic_launcher"
+        android:id="@+id/food_image"
+        android:layout_width="@dimen/image_dimen"
+        android:layout_height="@dimen/image_dimen" />
+
+    <TextView
+        android:layout_toRightOf="@id/food_image"
+        style="@style/Base.TextAppearance.AppCompat.Large"
+        android:layout_marginLeft="15dp"
+        android:text="@string/empty"
+        android:id="@+id/food_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <android.support.v7.widget.RecyclerView
+        android:layout_below="@+id/food_image"
+        android:id="@+id/pairs_list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    </android.support.v7.widget.RecyclerView>
+
+
+
+</RelativeLayout>

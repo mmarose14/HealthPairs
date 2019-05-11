@@ -1,0 +1,243 @@
+[{
+  "foodOne": {
+    "name": "Apple",
+    "image": "https:\/\/firebasestorage.googleapis.com\/v0\/b\/bites-1c0d2.appspot.com\/o\/Apple-icon.png?alt=media&token=a8c79a5e-1787-4416-8e32-2b395edc56a5"
+  },
+  "foodTwo": {
+    "name": "Raspberries",
+    "image": "https:\/\/firebasestorage.googleapis.com\/v0\/b\/bites-1c0d2.appspot.com\/o\/raspberry.png?alt\\u003dmedia\\u0026token\\u003d59286508-4b4c-43dd-8964-ad04927759f3"
+  },
+  "description": "A study in the Journal of Nutrition determined that the antioxidant ellagic \" + \"acid (found in raspberries, pomegranates, walnuts, and cranberries) enhanced \" + \"the ability of quercetin (an antioxidant found in apples, grapes, onions, and \" + \"buckwheat) to kill off cancerous cells.",
+  "source": "www.rd.com"
+}, {
+  "foodOne": {
+    "name": "Green Tea",
+    "image": "https:\/\/firebasestorage.googleapis.com\/v0\/b\/bites-1c0d2.appspot.com\/o\/green-tea-in-a-glass-teacup.jpg?alt=media&token=092c480b-6d1a-468b-829e-2ebe2437f55b"
+  },
+  "foodTwo": {
+    "name": "Lemon",
+    "image": "https:\/\/cdn1.medicalnewstoday.com\/content\/images\/articles\/283\/283476\/lemons.jpg"
+  },
+  "description": "According to a separate Purdue University report, adding a splash of citrus juice from a lemon, lime, or grapefruit to green tea reduces the breakdown of its catechins in our digestive system, making them even more readily absorbed by the body.",
+  "source": "www.rd.com"
+}, {
+  "foodOne": {
+    "name": "Tomato",
+    "image": "http:\/\/pix.iemoji.com\/images\/emoji\/apple\/ios-9\/256\/tomato.png"
+  },
+  "foodTwo": {
+    "name": "Avocado",
+    "image": "https:\/\/cdn1.medicalnewstoday.com\/content\/images\/articles\/270406-avocados.jpg"
+  },
+  "description": "Research from Ohio State University found that when avocado was added to salsa, people absorbed more than four times the amount of lycopene than from salsa without avocado. What makes this pair a winning combo? Increased consumption of lycopene plays a role in the cancer prevention, inflammatory diseases, and age-related illnesses such as cataracts.",
+  "source": "www.dailyburn.com"
+}, {
+  "foodOne": {
+    "name": "Steak",
+    "image": "http:\/\/www.omahasteaks.com\/gifs\/os\/dd_01_filet.jpg"
+  },
+  "foodTwo": {
+    "name": "Broccoli",
+    "image": "http:\/\/www.profproduce.com\/wp-content\/uploads\/2013\/04\/Broccoli.jpg"
+  },
+  "description": "You may not think of beef as a healthy food, but red meat does deliver an energizing punch of iron. And thats where the broccoli comes in. \"Iron-rich foods are absorbed into the blood more readily when a food that's high in vitamin C is eaten at the same time,\" explains Sarah Krieger, a spokesperson for the Academy of Nutrition and Dietetics.",
+  "source": "www.shape.com"
+}, {
+  "foodOne": {
+    "name": "Kale",
+    "image": "https:\/\/www.eecs.tufts.edu\/~mclark13\/kale.png"
+  },
+  "foodTwo": {
+    "name": "Salmon",
+    "image": "https:\/\/www.ocado.com\/productImages\/588\/58892011_2_640x640.jpg?identifier=bd01547dbaa5b1617f262d1488e1c5aa"
+  },
+  "description": "We need vitamin D to better absorb calcium. Some foods, like cheese, contain both. But calcium rich greens like kale need an extra vitamin D boost and oily fish like salmon, sardines, or trout are great sources.",
+  "source": "www.shape.com"
+}, {
+  "foodOne": {
+    "name": "Curry",
+    "image": null
+  },
+  "foodTwo": {
+    "name": "Black Pepper",
+    "image": "https:\/\/static.thespicehouse.com\/images\/file\/340\/small_Tellicherry_Black_Peppercorns__close.jpg"
+  },
+  "description": "Turmeric, the yellow spice used in many curries, is an emerging darling of the nutritional world, with research linking it to everything from happier moods to reductions in chronic pain. And research shows that a compound in black pepper, known as piperine, significantly improves the bioavailability of the superfood. ",
+  "source": "www.shape.com"
+}, {
+  "foodOne": {
+    "name": "Nut Butter",
+    "image": null
+  },
+  "foodTwo": {
+    "name": "Banana",
+    "image": null
+  },
+  "description": "This simple pairing of protein and healthy carbs is a surefire post-workout winner: The combo has been proven to aid with muscle recovery. To up the fiber count (making the snack more satiating), add a slice of whole grain toast to the mix.",
+  "source": ""
+}, {
+  "foodOne": {
+    "name": "Onions",
+    "image": null
+  },
+  "foodTwo": {
+    "name": "Chickpeas",
+    "image": "https:\/\/www.organicfacts.net\/wp-content\/uploads\/chickpeas-1020x765.jpg"
+  },
+  "description": "According to a 2010 study in the Journal of Agricultural and Food Chemistry, sulfur compounds in onions, garlic, and leeks can help you absorb more iron and zinc from grains and legumes, including chickpeas.",
+  "source": "www.rd.com"
+}, {
+  "foodOne": {
+    "name": "Yogurt",
+    "image": "http:\/\/www.newhope.com\/sites\/newhope360.com\/files\/uploads\/2014\/10\/yogurt2.jpg"
+  },
+  "foodTwo": {
+    "name": "Banana",
+    "image": null
+  },
+  "description": "Since exercise burns glucose, post-workout bouts of low blood sugar are not uncommon for people with type 2 diabetes. The perfect snack to prevent such hypoglycemic attacks combines a carbohydrate (banana) with protein (yogurt). Carbs replenish your blood sugar levels and protein increases fullness and prevents blood sugar levels from rising too quickly. ",
+  "source": "www.rd.com"
+}, {
+  "foodOne": {
+    "name": "Steak",
+    "image": "http:\/\/www.omahasteaks.com\/gifs\/os\/dd_01_filet.jpg"
+  },
+  "foodTwo": {
+    "name": "Rosemary",
+    "image": null
+  },
+  "description": "Rosemary is rich in rosmarinic and carnosic acids that stop cancer-causing heterocyclic amines from forming on cooked meat. \"People have a lot of concerns about eating grilled meat,\" says Dr. Ramsey, who keeps potted rosemary in his kitchen. \"This combination is one way that I like to use food synergy to increase the health of a dish.\"",
+  "source": "www.rodalesorganiclife.com"
+}, {
+  "foodOne": {
+    "name": "Beet Greans",
+    "image": null
+  },
+  "foodTwo": {
+    "name": "Chickpeas",
+    "image": "https:\/\/www.organicfacts.net\/wp-content\/uploads\/chickpeas-1020x765.jpg"
+  },
+  "description": "Magnesium is essential for low anxiety and happiness, but 70 percent of Americans don't get enough. Beet greens are loaded with the calming mineral, and the B6 in chickpeas maximizes magnesium absorption in the body.",
+  "source": "www.rodalesorganiclife.com"
+}, {
+  "foodOne": {
+    "name": "Fish",
+    "image": "http:\/\/www.ct.gov\/deep\/lib\/deep\/fishing\/fish_graphics\/american-shad.jpg"
+  },
+  "foodTwo": {
+    "name": "Broccoli",
+    "image": "http:\/\/www.profproduce.com\/wp-content\/uploads\/2013\/04\/Broccoli.jpg"
+  },
+  "description": "Many fish, salmon, and mackerel are rich in the thyroid-protecting, cancer-fighting mineral selenium. When paired with broccoli, a veggie rich in sulforaphane, the compounds are 13 times more effective in slowing cancer cell growth than when eaten solo.",
+  "source": "www.rodalesorganiclife.com"
+}, {
+  "foodOne": {
+    "name": "Red Wine",
+    "image": null
+  },
+  "foodTwo": {
+    "name": "Almonds",
+    "image": null
+  },
+  "description": "The antioxidant resveratrol in red wine and almond's naturally high levels of vitamin E work together to thin the blood and improve blood vessel health.",
+  "source": "www.rodalesorganiclife.com"
+}, {
+  "foodOne": {
+    "name": "Salsa",
+    "image": null
+  },
+  "foodTwo": {
+    "name": "Guacamole",
+    "image": null
+  },
+  "description": "Great news for everyone who loves these classic dips: The healthy fats in avocado enhance the absorption of the lycopene (a powerful antioxidant) found in tomatoes, says Bazilian. ",
+  "source": "www.dailyburn.com"
+}, {
+  "foodOne": {
+    "name": "Tomato",
+    "image": "http:\/\/pix.iemoji.com\/images\/emoji\/apple\/ios-9\/256\/tomato.png"
+  },
+  "foodTwo": {
+    "name": "Olive Oil",
+    "image": null
+  },
+  "description": "The quintessential Italian food ingredients! They don't just taste good together; they also provide a vitamin and mineral-packed punch, says Bazilian. As with the pairing above, the fats in olive oil enhance the absorption of lycopene from the tomatoes.",
+  "source": "www.dailyburn.com"
+}, {
+  "foodOne": {
+    "name": "Avocado",
+    "image": "https:\/\/cdn1.medicalnewstoday.com\/content\/images\/articles\/270406-avocados.jpg"
+  },
+  "foodTwo": {
+    "name": "Kale",
+    "image": "https:\/\/www.eecs.tufts.edu\/~mclark13\/kale.png"
+  },
+  "description": "On their own, kale and avocado already enjoy acclaimed superfood status. Together, their health benefits are even more potent. \"The fat in avocado can boost the levels of the carotenoids in kale by 400 percent or more,\" says Bazilian.",
+  "source": "www.dailyburn.com"
+}, {
+  "foodOne": {
+    "name": "Carrots",
+    "image": null
+  },
+  "foodTwo": {
+    "name": "Walnuts",
+    "image": null
+  },
+  "description": "The beta-carotene found in carrots is better absorbed with fat, says Maxine Yeung, MS, RD, CDN, NASM-CPT and founder of The Wellness Whisk. So consider pairing a handful of carrot sticks and walnuts (which are chock full of healthy fats) for a nutrient-rich snack.",
+  "source": "www.dailyburn.com"
+}, {
+  "foodOne": {
+    "name": "Yogurt",
+    "image": "http:\/\/www.newhope.com\/sites\/newhope360.com\/files\/uploads\/2014\/10\/yogurt2.jpg"
+  },
+  "foodTwo": {
+    "name": "Salmon",
+    "image": "https:\/\/www.ocado.com\/productImages\/588\/58892011_2_640x640.jpg?identifier=bd01547dbaa5b1617f262d1488e1c5aa"
+  },
+  "description": "Yogurt is a great source of calcium, which we need to keep our bones in good health but calcium needs vitamin D for the body to absorb it properly, say Daw and Clifford. This is where salmon comes into play, as it's a great source of vitamin D. ",
+  "source": "www.dailyburn.com"
+}, {
+  "foodOne": {
+    "name": "Cheese",
+    "image": null
+  },
+  "foodTwo": {
+    "name": "Eggs",
+    "image": null
+  },
+  "description": "You'll get similar nutritional benefits to salmon and yogurt from the classic combination of eggs and cheese, says Yeung. Yolks provide a natural source of vitamin D, which helps the body more easily absorb the calcium found in cheese.",
+  "source": "www.dailyburn.com"
+}, {
+  "foodOne": {
+    "name": "Tumeric",
+    "image": null
+  },
+  "foodTwo": {
+    "name": "Black pepper",
+    "image": "https:\/\/static.thespicehouse.com\/images\/file\/340\/small_Tellicherry_Black_Peppercorns__close.jpg"
+  },
+  "description": "Turmeric has been linked to many health benefits associated with its main compound curcumin, a natural anti-inflammatory and strong antioxidant, say Daw and Clifford. When eaten with black pepper, the body is able to increase the absorption of curcumin by 2,000 percent.",
+  "source": "www.dailyburn.com"
+}, {
+  "foodOne": {
+    "name": "Spinach",
+    "image": null
+  },
+  "foodTwo": {
+    "name": "Lemon",
+    "image": "https:\/\/cdn1.medicalnewstoday.com\/content\/images\/articles\/283\/283476\/lemons.jpg"
+  },
+  "description": "Plant-based iron, found in greens like spinach, kale, Swiss chard and more, becomes easier for the body to absorb when eaten with vitamin C. A dash of lemon juice, a handful of strawberries or even some bell peppers will help convert the plant-based iron in your salad into a form that's more similar to the iron found in fish and meat, according to Men's Health. And that will keep us feeling energized and our immune systems strong. ",
+  "source": "www.huffingtonpost.com"
+}, {
+  "foodOne": {
+    "name": "Broccoli",
+    "image": "http:\/\/www.profproduce.com\/wp-content\/uploads\/2013\/04\/Broccoli.jpg"
+  },
+  "foodTwo": {
+    "name": "Tomato",
+    "image": "http:\/\/pix.iemoji.com\/images\/emoji\/apple\/ios-9\/256\/tomato.png"
+  },
+  "description": "Pair the cancer-fighting powers of lycopene-rich tomatoes with broccoli for extra protection against prostate cancer.",
+  "source": "www.huffingtonpost.com"
+}]
